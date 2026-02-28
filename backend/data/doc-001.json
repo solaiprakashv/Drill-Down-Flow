@@ -1,0 +1,11 @@
+{
+  "id": "doc-001",
+  "paragraph": "The quitck brown fox jumps over the lazy dog\n12\nArtificial intelligences is transforming the world rapidly\nData structures and algorithms form the backbone of computing\nCloud computing enables scalable and flexible infrastructure\nOpen source software drives innovation across industries",
+  "metadata": {
+    "author": "Alice Johnson",
+    "department": "Engineering",
+    "category": "Technology",
+    "createdAt": "2025-06-15",
+    "version": "1.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "doc-005",
+  "paragraph": "Quantum computing harnesses the power of quantum mechanics\nAlgorithms designed for quantum processors outperform classical ones\nCryptography relies on mathematical complexity for security\nBlockchain technology ensures transparent and immutable records\nThe backbone of distributed systems depends on consensus protocols",
+  "metadata": {
+    "author": "David Park",
+    "department": "Quantum Research",
+    "category": "Emerging Tech",
+    "createdAt": "2025-09-10",
+    "version": "1.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "doc-007",
+  "paragraph": "Natural language processing bridges machines and human communication\nTransformer architectures revolutionized the field of deep learning\nAlgorithms for text classification improve search engine results\nSpeech recognition software transforms audio into structured data\nSentiment analysis helps companies understand customer feedback",
+  "metadata": {
+    "author": "Frank Liu",
+    "department": "AI Research",
+    "category": "Natural Language",
+    "createdAt": "2026-01-18",
+    "version": "1.3"
+  }
+}
